@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevenneran
-- 👀 I’m interested in gatau
-- 🌱 I’m currently learning wgtik
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me stevenchris232@gmail.com
 

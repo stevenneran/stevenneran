@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @stevenneran
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me stevenchris232@gmail.com
-
 <div align="center" >
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
@@ -14,10 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenneran" alt="Steven" /></a> </p>
 
-
-- 🌱 I’m currently learning ** **
-
-- 📫 How to reach me ** **
+- 👋 Hi, I’m @stevenneran
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning **C++**
+- 💞️ I’m looking to collaborate on any projects
+- 📫 You can reach me at **stevenchris232@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

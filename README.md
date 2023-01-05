@@ -12,7 +12,7 @@
  
  </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenneran" alt="hanrocky halim" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenneran" alt="Steven" /></a> </p>
 
 
 - 🌱 I’m currently learning ** **
@@ -40,9 +40,9 @@
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git Statistics</b></summary>  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenneran&show_icons=true&locale=en&layout=compact" alt="hanrockyhalim" /></p>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenneran&show_icons=true&locale=en" alt="hanrockyhalim" /></p>
- <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenneran&" alt="hanrockyhalim" /> </p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenneran&show_icons=true&locale=en&layout=compact" alt="Steven" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenneran&show_icons=true&locale=en" alt="Steven" /></p>
+ <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenneran&" alt="Steven" /> </p>
 </details>
 
 <!---
